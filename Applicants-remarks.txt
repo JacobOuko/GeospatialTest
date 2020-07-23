@@ -1,0 +1,11 @@
+# This file is intended for remarks of the applicant:
+# Name of applicant: Jacob Joseph Ochieng Ouko
+
+Data cleaning
+Some of the points were falling outside the study area. I therefore clipped the data to the boundaries of the polygon using the subset command.
+This unfortunately lead to the datum of the resulting layer being dropped hence I had to transform the projection.
+
+
+Task complexity
+The task was fairly complex but the good sie of it is that it made me learn new things in r
+I did not understand the requirement to interpolation on evenly spaced points having a distance of 200 m
